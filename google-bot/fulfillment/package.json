@@ -1,0 +1,17 @@
+{
+  "name": "sitecore-hackathon",
+  "description": "Order a meal online",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "Google Inc.",
+  "engines": {
+    "node": "~6.0"
+  },
+  "dependencies": {
+    "actions-on-google": "^1.5.x",
+    "firebase-admin": "^4.2.1",
+    "apiai": "^4.0.3",
+    "jquery": "^2.2.4"
+  }
+}
